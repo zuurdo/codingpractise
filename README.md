@@ -7,5 +7,6 @@ Implementations of HackerRank problems.
     - Greedy Algorithms
         - reverseShuffleMerge ( **UNDER REVISION** )
         - minMax
+        - greedyFlorist
     - _PENDING_
 
