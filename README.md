@@ -6,5 +6,6 @@ Implementations of HackerRank problems.
 - Interview Preparation Kit
     - Greedy Algorithms
         - reverseShuffleMerge ( **UNDER REVISION** )
+        - minMax
     - _PENDING_
 
