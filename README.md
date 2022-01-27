@@ -8,5 +8,6 @@ Implementations of HackerRank problems.
         - reverseShuffleMerge ( **UNDER REVISION** )
         - minMax
         - greedyFlorist
+        - luckBalance
     - _PENDING_
 
