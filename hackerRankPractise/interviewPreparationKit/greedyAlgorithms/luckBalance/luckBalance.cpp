@@ -86,6 +86,7 @@ int main()
 
   int result = luckBalance(k, contests);
 
+  //fout << result << "\n";
   cout << result << "\n";
 
   fout.close();

@@ -57,6 +57,7 @@ int main()
 
   int result = maxMin(k, arr);
 
+  // fout << result << "\n";
   cout << " Result " << result << "\n";
 
   fout.close();

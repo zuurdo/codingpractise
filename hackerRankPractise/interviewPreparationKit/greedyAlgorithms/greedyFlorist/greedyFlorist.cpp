@@ -57,6 +57,7 @@ int main()
 
   int minimumCost = getMinimumCost(k, c);
 
+  //fout << minimumCost << "\n";
   cout << minimumCost << "\n";
 
   fout.close();

@@ -92,7 +92,8 @@ int main()
 
   string result = reverseShuffleMerge(s);
 
-  fout << result << "\n";
+  //fout << result << "\n";
+  cout << result << "\n";
 
   fout.close();
 
