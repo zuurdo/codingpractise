@@ -9,5 +9,8 @@ Implementations of HackerRank problems.
         - minMax
         - greedyFlorist
         - luckBalance
+        - minimumAbsoluteDifferenceInAnArray
+
+
     - _PENDING_
 
