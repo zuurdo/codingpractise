@@ -13,6 +13,7 @@ Implementations of HackerRank problems.
     - Strings
         - commonChild
         - specialStringAgain ( Python 3 )
+        - sherlockAndTheValidString ( Python 3 )
 
     - _PENDING_
 
