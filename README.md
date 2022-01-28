@@ -16,6 +16,7 @@ Implementations of HackerRank problems.
         - sherlockAndTheValidString ( Python 3 )
         - alternatingCharacters ( Python 3 )
         - makingAnagrams ( Python 3 )
-
+    - Sorting
+        - mergeSortCountingInversions
     - _PENDING_
 
