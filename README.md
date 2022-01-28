@@ -14,6 +14,7 @@ Implementations of HackerRank problems.
         - commonChild
         - specialStringAgain ( Python 3 )
         - sherlockAndTheValidString ( Python 3 )
+        - alternatingCharacters ( Python 3 )
 
     - _PENDING_
 
