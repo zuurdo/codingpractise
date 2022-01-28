@@ -10,7 +10,8 @@ Implementations of HackerRank problems.
         - greedyFlorist
         - luckBalance
         - minimumAbsoluteDifferenceInAnArray
-
+    - Strings
+        - commonChild
 
     - _PENDING_
 
