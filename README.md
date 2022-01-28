@@ -12,6 +12,7 @@ Implementations of HackerRank problems.
         - minimumAbsoluteDifferenceInAnArray
     - Strings
         - commonChild
+        - specialStringAgain ( Python 3 )
 
     - _PENDING_
 
