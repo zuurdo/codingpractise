@@ -18,5 +18,6 @@ Implementations of HackerRank problems.
         - makingAnagrams ( Python 3 )
     - Sorting
         - mergeSortCountingInversions
+        - fraudulentActivityNotifications
     - _PENDING_
 
