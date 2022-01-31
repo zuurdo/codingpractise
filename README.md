@@ -19,5 +19,8 @@ Implementations of HackerRank problems.
     - Sorting
         - mergeSortCountingInversions
         - fraudulentActivityNotifications
+    - DictionariesAndHashmaps
+        - frequencyQueries
+        - countTriplets
     - _PENDING_
 
