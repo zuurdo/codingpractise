@@ -26,5 +26,7 @@ Implementations of HackerRank problems.
         - sherlockAndAnagrams
         - twoStrings
         - ransomNote
+    - Arrays
+        - arrayManipulation
     - _PENDING_
 
