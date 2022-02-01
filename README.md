@@ -22,5 +22,6 @@ Implementations of HackerRank problems.
     - DictionariesAndHashmaps
         - frequencyQueries
         - countTriplets
+        - sherlockAndAnagrams
     - _PENDING_
 
