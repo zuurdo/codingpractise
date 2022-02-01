@@ -25,5 +25,6 @@ Implementations of HackerRank problems.
         - countTriplets
         - sherlockAndAnagrams
         - twoStrings
+        - ransomNote
     - _PENDING_
 
