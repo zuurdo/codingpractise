@@ -28,5 +28,6 @@ Implementations of HackerRank problems.
         - ransomNote
     - Arrays
         - arrayManipulation
+        - minimumSwap2
     - _PENDING_
 
