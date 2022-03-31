@@ -32,5 +32,6 @@ Implementations of HackerRank problems.
         - minimumSwap2
         - newYearChaos
         - leftRotation
+        - hourglassSum
     - _PENDING_
 
