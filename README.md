@@ -31,5 +31,6 @@ Implementations of HackerRank problems.
         - arrayManipulation
         - minimumSwap2
         - newYearChaos
+        - leftRotation
     - _PENDING_
 
