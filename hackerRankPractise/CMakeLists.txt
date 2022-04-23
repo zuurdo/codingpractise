@@ -4,4 +4,5 @@ cmake_minimum_required(VERSION 3.10)
 project(hackerRankPractise)
 #
 add_subdirectory(interviewPreparationKit)
+add_subdirectory(problemSolving)
 # add the executable
