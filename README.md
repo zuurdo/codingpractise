@@ -43,3 +43,4 @@ Implementations of HackerRank problems.
     - repeatedString
     - nonDivisibleSubset
     - cutTheSticks
+    - libraryFine
