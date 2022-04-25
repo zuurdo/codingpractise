@@ -42,3 +42,4 @@ Implementations of HackerRank problems.
     - jumpingOnClouds
     - repeatedString
     - nonDivisibleSubset
+    - cutTheSticks
