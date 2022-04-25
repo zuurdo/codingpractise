@@ -40,3 +40,4 @@ Implementations of HackerRank problems.
     - queensAttack
     - equalizeArray
     - jumpingOnClouds
+    - repeatedString
