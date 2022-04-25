@@ -34,7 +34,7 @@ Implementations of HackerRank problems.
         - leftRotation
         - hourglassSum
 - Problem solving
-    -organizingContainersOfBalls
-    -taumBday
-    -acmTeam
-
+    - organizingContainersOfBalls
+    - taumBday
+    - acmTeam
+    - queensAttack
