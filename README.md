@@ -39,3 +39,4 @@ Implementations of HackerRank problems.
     - acmTeam
     - queensAttack
     - equalizeArray
+    - jumpingOnClouds
