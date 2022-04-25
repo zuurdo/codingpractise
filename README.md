@@ -38,3 +38,4 @@ Implementations of HackerRank problems.
     - taumBday
     - acmTeam
     - queensAttack
+    - equalizeArray
