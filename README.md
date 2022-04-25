@@ -41,3 +41,4 @@ Implementations of HackerRank problems.
     - equalizeArray
     - jumpingOnClouds
     - repeatedString
+    - nonDivisibleSubset
