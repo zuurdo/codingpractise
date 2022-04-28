@@ -44,3 +44,4 @@ Implementations of HackerRank problems.
     - nonDivisibleSubset
     - cutTheSticks
     - libraryFine
+    - squares
