@@ -45,3 +45,4 @@ Implementations of HackerRank problems.
     - cutTheSticks
     - libraryFine
     - squares
+    - appendAndDelete
