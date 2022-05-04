@@ -46,3 +46,4 @@ Implementations of HackerRank problems.
     - libraryFine
     - squares
     - appendAndDelete
+    - fiveDigits
