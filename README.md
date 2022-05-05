@@ -47,3 +47,4 @@ Implementations of HackerRank problems.
     - squares
     - appendAndDelete
     - fiveDigits
+    - jumpingOnClouds(2)
