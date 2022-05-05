@@ -52,3 +52,5 @@ Implementations of HackerRank problems.
     - circularArrayRotation
     - saveThePrisoner
     - viralAdvertising
+    - beautifulDays
+    - angryProfessor
