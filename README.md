@@ -49,3 +49,4 @@ Implementations of HackerRank problems.
     - fiveDigits
     - jumpingOnClouds(2)
     - permutationEquation
+    - circularArrayRotation
