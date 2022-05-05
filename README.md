@@ -50,4 +50,4 @@ Implementations of HackerRank problems.
     - jumpingOnClouds(2)
     - permutationEquation
     - circularArrayRotation
-    - saveThePrisioner
+    - saveThePrisoner
