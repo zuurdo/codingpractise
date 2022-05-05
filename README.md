@@ -51,3 +51,4 @@ Implementations of HackerRank problems.
     - permutationEquation
     - circularArrayRotation
     - saveThePrisoner
+    - viralAdvertising
