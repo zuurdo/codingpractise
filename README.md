@@ -48,3 +48,4 @@ Implementations of HackerRank problems.
     - appendAndDelete
     - fiveDigits
     - jumpingOnClouds(2)
+    - permutationEquation
