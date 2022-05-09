@@ -58,3 +58,4 @@ Implementations of HackerRank problems.
     - designerPdfViewer
     - hurdleRace
     - climbingLeaderboard
+    - extraLongFactorials
