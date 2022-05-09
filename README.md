@@ -59,3 +59,4 @@ Implementations of HackerRank problems.
     - hurdleRace
     - climbingLeaderboard
     - extraLongFactorials
+    - pageCount
