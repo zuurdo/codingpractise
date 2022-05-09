@@ -57,3 +57,4 @@ Implementations of HackerRank problems.
     - utopianTree
     - designerPdfViewer
     - hurdleRace
+    - climbingLeaderboard
