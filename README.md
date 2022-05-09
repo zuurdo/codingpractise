@@ -60,3 +60,4 @@ Implementations of HackerRank problems.
     - climbingLeaderboard
     - extraLongFactorials
     - pageCount
+    - pickingNumbers
