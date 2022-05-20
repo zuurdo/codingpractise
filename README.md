@@ -63,3 +63,4 @@ Implementations of HackerRank problems.
     - pickingNumbers
     - formingMagicSquare
     - catAndMouse
+    - getMoneySpent
