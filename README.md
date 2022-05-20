@@ -62,3 +62,4 @@ Implementations of HackerRank problems.
     - pageCount
     - pickingNumbers
     - formingMagicSquare
+    - catAndMouse
