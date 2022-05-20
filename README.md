@@ -61,3 +61,4 @@ Implementations of HackerRank problems.
     - extraLongFactorials
     - pageCount
     - pickingNumbers
+    - formingMagicSquare
