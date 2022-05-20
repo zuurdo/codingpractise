@@ -64,3 +64,4 @@ Implementations of HackerRank problems.
     - formingMagicSquare
     - catAndMouse
     - getMoneySpent
+    - countingValleys
