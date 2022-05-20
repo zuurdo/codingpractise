@@ -65,3 +65,4 @@ Implementations of HackerRank problems.
     - catAndMouse
     - getMoneySpent
     - countingValleys
+    - sockMerchant
