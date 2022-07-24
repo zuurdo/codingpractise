@@ -33,6 +33,9 @@ Implementations of HackerRank problems.
         - newYearChaos
         - leftRotation
         - hourglassSum
+    - Search
+      - whatFalvors
+      - swapNodes
 - Problem solving
     - organizingContainersOfBalls
     - taumBday
