@@ -37,6 +37,7 @@ Implementations of HackerRank problems.
       - whatFalvors
       - swapNodes
       - pairs
+      - tripleSum
 - Problem solving
     - organizingContainersOfBalls
     - taumBday
